@@ -1,0 +1,8 @@
+pandas
+numpy
+sweetviz
+matplotlib
+scipy
+seaborn
+scikit-learn
+dill
